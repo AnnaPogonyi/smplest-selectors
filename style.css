@@ -1,17 +1,23 @@
 
-.asteroid big, asteroid b329 big {
+.asteroidbig, asteroidb329big {
     color: blue;
 }
 
-.asteroid b326 {
-    border: 1px, green;
+.asteroidb326 {
+    border: 1px solid green;
     font-weight: bold;
+    color: yellowgreen;
+}
+#b325 {
+    border: 1px solid green;
+    font-weight: bold;
+    color: yellowgreen;
 }
 
-.asteroid big {
+.asteroidbig {
     background-color: yellow;
 }
 
-.asteroid b329 big {
+.asteroidb329big {
     font-weight: bold;
 }
