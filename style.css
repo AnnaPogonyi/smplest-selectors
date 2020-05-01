@@ -3,7 +3,7 @@
     color: blue;
 }
 
-.asteroid, asteroid b326 {
+.asteroid b326 {
     border: 1px, green;
     font-weight: bold;
 }
